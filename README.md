@@ -1,7 +1,7 @@
 
 <p align="center">
-    <a href="https://www.r2coding.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/r2coding_logo_index.15y992dieibg.png" width=""/>
+    <a href="https://cz6900.github.io/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/cz6900/img/image/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png" width=""/>
     </a>
 </p>
 
