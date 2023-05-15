@@ -7,9 +7,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Github-r2coding-red.svg"></a>
+  <a href="https://cz6900.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github-r2coding-red.svg"></a>
   <a href="https://gitee.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Gitee-r2coding-blue.svg"></a>
-  <a href="https://space.bilibili.com/384068749" target="_blank"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical"></a>
+  <a href="https://space.bilibili.com/319272265" target="_blank"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical"></a>
   <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
     <img src="https://img.shields.io/badge/微信联系作者-WeChat-green.svg" alt="微信联系">
   </a>
@@ -20,11 +20,11 @@
 ---
 
 > [!TIP]
->  本站取名 **r2coding**，即 **Road To Coding**，意为「编程自学之路」，是自学编程以来所用资源和分享内容的大聚合。
+>  本站取名 **劲草笔记**，即 **Knowledge of Caibin Zhang**，是本人自学生物信息学与计算机知识等以来所用资源和分享内容的大聚合。
 >  
 >  旨在为编程自学者提供一系列：
->  - **清晰的编程自学路线**
->  - **各编程岗位方向的知识点梳理**
+>  - **清晰的生物信息学自学路线**
+>  - **分子生物学知识点梳理**
 >  - **靠谱的资源**
 >  - **高效的工具**
 >  - **务实的技术文章**
@@ -38,7 +38,7 @@
 ![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/contentmap.3sdmma4od740.png)
 
 ---
-# **编程自学路线+知识大梳理**
+# **清晰的生物信息学自学路线**
 
 ---
 > [!NOTE]
@@ -108,7 +108,7 @@ https://static.r2coding.com/r2_static/pdf/c.pdf
 <!-- tabs:end -->
 
 ---
-# **常用编程软件和工具**
+# **分子生物学知识点梳理**
 ---
 > [!NOTE]
 >  - [**【置顶笔记下载1】熬10天夜，我肝出了这个PDF版「服务器软件安装手册」**](https://mp.weixin.qq.com/s/YNOZSQ5smo1uGE5ZttUZ_w)
